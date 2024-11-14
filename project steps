@@ -1,0 +1,5 @@
+Download spotify data file from kaggle .
+I created 2 s3 bucket on aws concole one as a source and another as a destenation .
+Using the AWS Glue to make joine on two file in the s3 bucket (Source) Then delete duplicated colume.
+Saving the output of aws glue in the s3 bucket (destination) .
+By using the crawler tool save the  data in the s3 bucket (destination) into table in database.
