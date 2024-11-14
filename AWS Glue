@@ -1,1 +1,4 @@
-
+Using 3 file stored on s3 bucket (source) make joining function on two of this file (album and artist) using artist-id coulmn.
+then joining the last file with the third file (track).
+then drop duplicated columns .
+save the data finally in s3 file (destenation).
