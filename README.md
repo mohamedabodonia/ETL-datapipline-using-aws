@@ -20,7 +20,7 @@ I downloaded data from kaggle website then apply ETL pipline proecss on data.
 **5-Data Cataloging with AWS Glue Crawler**: Used the crawler tool to create schema for the data stored in s3 destination.
 
 **6-Querying data using AWS Athena**: Leveraged AWS Athena to query and analyze the data.
-
+<img src="https://github.com/user-attachments/assets/84bc431d-01a8-4af8-b537-52311fb9ca22">
 ## Technology used 
 
 * **s3 bucket**: used as a data storagae.  
